@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 oIt was the best of times.
+=======
+It was the best of times. Alien took over the world.
+>>>>>>> alien-plot
